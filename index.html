@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Gstanzl & Wirtshauslieder</title>
+    <link rel="styleshe" href="style.css" />
+    <!-- Include Fuse.js from a CDN for fuzzy search -->
+    <script defer src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2/dist/fuse.js"></script>
+    <script defer src="script.js"></script>
+  </head>
+  <body>
+    <header class="header">Gstanzl & Wirtshauslieder</header>
+    <nav class="nav">
+      <a href="index.html">Home</a>
+      <a href="index.html">Gstanzln</a>
+      <a href="ueber.html">Über</a>
+      <a href="impressum.html">Impressum</a>
+    </nav>
+    <main class="section">
+      <h2>Suche nach Gstanzln</h2>
+      <input
+        type="text"
+        id="searchInput"
+        class="search-input"
+        placeholder="Thema, Stichwort oder Dialekt eingeben…"
+        aria-label="Suchfeld für Gstanzln"
+      />
+      <div id="results"></div>
+    </main>
+  </body>
+</html>
