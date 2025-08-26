@@ -1,0 +1,47 @@
+[
+  {
+    "title": "I bin a Gstanzlsänger",
+    "slug": "i-bin-a-gstanzlsaenger",
+    "region": "Bayern",
+    "mood": "lustig",
+    "tags": ["Spott", "Bayern"],
+    "lyrics": [
+      "I bin a Gstanzlsänger, des mach i so gern,",
+      "mit Witz und a bisserl Spott, da lacht da ganze Stern.",
+      "Zu jedem Menschen hob i a gscheite Gschicht,",
+      "und nach dem Singen gibts an guten Kaffee nicht?"
+    ],
+    "dialect": "Bairisch",
+    "source": "Volksgut"
+  },
+  {
+    "title": "Da Wirtshausblues",
+    "slug": "wirtshausblues",
+    "region": "Tirol",
+    "mood": "gemütlich",
+    "tags": ["Wirtshaus", "Tirol"],
+    "lyrics": [
+      "Im Wirtshaus do is gmiadlich, da sitzt ma beinand,",
+      "mit Musi und an Bier, da geht's uns recht g’sund.",
+      "Ma singt und lacht und redt, bis spät in d'Nocht,",
+      "a jeder Witzl bringt a extra Schwung und Pracht."
+    ],
+    "dialect": "Tirolerisch",
+    "source": "Eigenkomposition"
+  },
+  {
+    "title": "Spott über d'Leit",
+    "slug": "spott-ueber-d-leit",
+    "region": "Steiermark",
+    "mood": "frech",
+    "tags": ["Spott", "Steiermark"],
+    "lyrics": [
+      "In da Stubn sitzn Leit, i schau ma des oan,",
+      "mit frechem Mundwerk treib i an jed’n durch d’Hitz boan.",
+      "A Gstanzl da, a Gstanzl dort, nix bleibt ungesagt,",
+      "doch g'lacht wird nacha trotzdem, wia ma’s halt so mag."
+    ],
+    "dialect": "Steirisch",
+    "source": "Volksgut"
+  }
+]
